@@ -1,0 +1,10 @@
+.navbar-content{
+  background-color: #ed017f;
+}
+
+@media (max-width: 575px){
+    .d-none-x-sm{
+        display: none;
+    }
+}
+
